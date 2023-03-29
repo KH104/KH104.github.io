@@ -36,7 +36,7 @@
         <p class="intro-btns">
           <a class="btn btn-info btn-lg" href="https://www.youtube.com/watch?v=xvFZjo5PgG0" role="button" target="_blank"><i class="fa fa-twitter fa-fw"></i>Twitter</a>
           
-          <a class="btn btn-default btn-lg" href="[https://www.github.com/aanaedu](https://github.com/KH104)" role="button" target="_blank"><i class="fa fa-github fa-lg fa-fw"></i>Github</a>
+          <a class="btn btn-default btn-lg" href="https://github.com/KH104" role="button" target="_blank"><i class="fa fa-github fa-lg fa-fw"></i>Github</a>
         </p>
       </div>
     </div>
@@ -48,7 +48,7 @@
       <h1 class="text-center">ABOUT</h1>
       <div class="col-md-4">
         <div class="profile-pic center-block">
-          <img src="https://avatars.githubusercontent.com/u/2571765?v=3" alt="" class="img-responsive" />
+          
           <div class="social-icons text-center">
             <a href="" target="_blank"><i class="fa fa-twitter"></i></a>
             <a href="[https://www.github.com/anthonymi4](https://github.com/KH104)" target="_blank"><i class="fa fa-github"></i></a>
